@@ -61,7 +61,7 @@ pipeline {
 
                 sleep 15
 
-                curl http://localhost:8080
+                curl http://localhost:9090
 
                 """
             }
